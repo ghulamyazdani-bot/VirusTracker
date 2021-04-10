@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  position: relative;
+  overflow-x: hidden;
+}
+
+* {
+  font-family: 'Sanchez', serif;
+}
+
+.bg1 {
+  position: absolute;
+  width: 700px;
+  height: 900px;
+  z-index: -1;
+  right: -15%;
+  top: -30px;
+}
+
+@media (max-width: 1400px) {
+  .bg1 {
+    right: -20%;
+    top: -50px;
+  }
+  
+}
+
+@media (max-width: 1000px) {
+  .bg1 {
+    right: -30%;
+  }
+
+  
+}
+
+@media (max-width: 600px) {
+  .bg1 {
+    right: -60%;
+  }
+
+  
+}
