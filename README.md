@@ -4,9 +4,11 @@
 ![Made-at-Hack-36](https://user-images.githubusercontent.com/55938346/114283882-e3dbab80-9a69-11eb-83b7-db18b96d0d6e.png)
 
 ##Theme and Problem statement
+
 Theme we chosen is Life in Pandemic So We created a Virus tracker for that its not just a tracker it will tell you everything which is needed to be known about New Viruses (Covid-19),We have added so many other features as wells  like Nearby vaccination centre ,Contact us and so many other features
 
 ##Implementation Details With Tech Stack
+
 So basically what we did was ,First we Created our prototype in figma and after we started working on creating the project first we have to creat the main landing page frontend so for that we used Html , Css And React.js.after creating the main frontend we ha to create our one of the most important feature which is tracker of covid 19 cases .So for that we used Api of covid tracker which is provided by who .After that we added New Mutation section of the project.and at last we created Contact us form for which we used firebase as backend service and For deploying our website we used firebase again.
 
 
